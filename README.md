@@ -1,2 +1,0 @@
-# tolkadot.github.io
-website
